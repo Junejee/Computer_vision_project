@@ -1,6 +1,9 @@
 
 #People Counting and Face Recognition in Video-Based for Retail Analytic with YOLO
 
+<img width="794" height="622" alt="image" src="https://github.com/user-attachments/assets/b749e2ca-7afb-4a65-9e72-5051c6069ca6" />
+
+
 
 The following objectives are proposed:
 
